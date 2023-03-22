@@ -1,5 +1,1 @@
-# Django-hotel-booking-
-# royal-hotel-room-booking
-# royal-hotel-room-booking
-# royal-hotel-room-booking
-# royal-hotel-room-booking
+# Hotel room booking system (django)
